@@ -1,0 +1,25 @@
+Semi-colons were ommited to save characters
+A = Golf (class)
+
+a = drawPitch
+b = addBall
+h = ballRoll
+
+c = ballPos
+d = pitch
+m = holePos
+
+e = use of Golf (class) in main
+
+f = drawItem //item to draw onto the map
+j = tempPitch
+g = refreshInterval
+
+h = itemIcon //Icon to add onto the map
+k = deepCopy //if true, it doesnt creates a deep copy of map (like rust & reference) and directly modifies the pitch
+l = hasWon (global)
+n = pitchLength (global)
+o = pitchHeight (global)
+
+Instructions:
+Try and get the ball into the hole with the smallest amounts of attempts, take your shot by pressing any key
